@@ -2,8 +2,7 @@
 let city='Thane';
 let citylatitude='19.2183';
 let citylongitude='72.9783';
-citylatitude = Number(citylatitude);
-citylongitude = Number(citylongitude);
+
 const tierOneCities=[
    {cityName: 'Bangalore', latitude: 12.9716, longitude: 77.5946},
    {cityName: 'Mumbai',latitude: 19.0760, longitude: 72.8777},
